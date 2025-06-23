@@ -1,0 +1,2 @@
+D:/PulseProd/pulseprod/android/app/.cxx/RelWithDebInfo/25b3v454/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/PulseProd/pulseprod/android/app/.cxx/RelWithDebInfo/25b3v454/armeabi-v7a/CMakeFiles/rebuild_cache.dir

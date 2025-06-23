@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\prono\\Documents\\GitHub\\SoundSphere\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\prono\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\PulseProd\\pulseprod\\android\\app\\.cxx\\Debug\\3b2s2n2j\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\prono\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\PulseProd\\pulseprod\\android\\app\\.cxx\\Debug\\3b2s2n2j\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
